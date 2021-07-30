@@ -1,6 +1,5 @@
 package com.dzaicev;
 
-
 import com.dzaicev.domain.Person;
 import com.dzaicev.exceptions.NotFoundException;
 import com.dzaicev.exceptions.NullArgumentException;
